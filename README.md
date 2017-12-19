@@ -26,3 +26,6 @@ Unpublished
 ### See also
 * [GenBank-lit2tab](https://github.com/nnsdtr/GenBank-lit2tab)
 * [barcode-article-miner](https://github.com/nnsdtr/barcode-article-miner)
+
+## Contributing
+This repository is supposed to be stable, as it is part of a scientific publication. Instead of commiting here, we kindly ask you to fork the project.
