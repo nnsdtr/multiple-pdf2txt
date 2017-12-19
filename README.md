@@ -1,6 +1,6 @@
 # DNA Barcoding in Fungi: multiple_pdf2txt
 
-This script parsed all PDF files inside a specified folder and converted them into '*.txt' files for further text mining aproach.
+This script parsed multiple `PDF` files inside a specified folder and converted them into `*.txt` files for further text mining approach.
 
 ## Bash version
 
