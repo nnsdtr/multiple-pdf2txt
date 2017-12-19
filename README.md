@@ -16,8 +16,9 @@ Unpublished
 
 ## Laboratory
 [logo]: https://github.com/nnsdtr/multiple_pdf2txt/blob/master/lbmcf-logo.png
-* **Laboratory of Molecular and Computational Biology of Fungi** *(LBMCF, ICB - UFMG, Belo Horizonte, Brazil)*
+
 ![alt text][logo]
+* **Laboratory of Molecular and Computational Biology of Fungi** *(LBMCF, ICB - UFMG, Belo Horizonte, Brazil)*
 
 
 ### Author
