@@ -8,15 +8,18 @@ GNU bash, version 4.3.48(1)-release (x86_64-pc-linux-gnu). Copyright (C) 2013 Fr
 
 ## Built With
 
-* [PDFminer pdf2txt.py](https://github.com/euske/pdfminer/blob/master/tools/pdf2txt.py) - Used to parse PDFs into text files.
+* [PDFminer pdf2txt.py](https://github.com/euske/pdfminer/blob/master/tools/pdf2txt.py) - @euske - Used to parse PDFs into text files.
 
 ## Reference
 
 Unpublished
 
 ## Laboratory
-
+[logo]: https://github.com/nnsdtr/multiple_pdf2txt/blob/master/lbmcf_logo.png
 * **Laboratory of Molecular and Computational Biology of Fungi** *(LBMCF, ICB - UFMG, Belo Horizonte, Brazil)*
+![alt text][logo]
+
 
 ### Author
 * **Nunes, D.T.** - [nnsdtr](https://github.com/nnsdtr)
+
