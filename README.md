@@ -8,7 +8,7 @@ GNU bash, version 4.3.48(1)-release (x86_64-pc-linux-gnu). Copyright (C) 2013 Fr
 
 ## Built With
 
-* [PDFminer pdf2txt.py](https://github.com/euske/pdfminer/blob/master/tools/pdf2txt.py) - @euske - Used to parse PDFs into text files.
+* [PDFminer pdf2txt.py](https://github.com/euske/pdfminer/blob/master/tools/pdf2txt.py) - [euske](https://github.com/euske) - Used to parse PDFs into text files.
 
 ## Reference
 
