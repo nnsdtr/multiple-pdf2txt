@@ -4,7 +4,7 @@ This script parsed `multiple PDF files` inside a specified folder and converted 
 
 ## Bash version
 
-GNU bash, version 4.3.48(1)-release (x86_64-pc-linux-gnu). Copyright (C) 2013 Free Software Foundation, Inc.
+GNU bash, version 4.3.48(1)-release (x86_64-pc-linux-gnu). Copyright © 2013 Free Software Foundation, Inc.
 
 ## Built With
 
