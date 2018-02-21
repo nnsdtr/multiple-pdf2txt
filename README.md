@@ -1,6 +1,6 @@
 # DNA Barcoding in Fungi: multiple-pdf2txt
 
-This script parsed `multiple PDF files` inside a specified folder and converted them into `*.txt files` for further text mining approach. `pdf2txt.py` was run employing automatic layout analysis and, as some PDFs presented excessively long conclusion times, with a timeout of 30 seconds for each PDF conversion round. (For further information on the project, please see the reference cited below)
+This script parsed `multiple PDF files` inside a specified folder and converted them into `*.txt files` for further text mining approach. `pdf2txt.py` was run employing automatic layout analysis and, as some PDFs presented excessively long conclusion times, we limited the rounds with a timeout of 30 seconds for each PDF conversion round. (For further information on the project, please see the reference cited below)
 
 ## Bash version
 
