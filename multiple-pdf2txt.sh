@@ -25,7 +25,7 @@
 # REVISION HISTORY  :
 # Date        Author      Ref    Revision (Date in YYYYMMDD format)
 # 20170818    NUNES,DT.     1    Version 1.0 finished.
-# 20171101    NUNES,DT.     2    Version 1.5 finished (added timeout 30s, few file and folder manipulations)
+# 20171101    NUNES,DT.     2    Version 1.5 finished (added timeout 30s and few minor modifications)
 #
 # PARAMETER:
 #    INDATA - Path to the multiple PDF's folder
