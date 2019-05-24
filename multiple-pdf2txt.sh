@@ -37,7 +37,7 @@
 #    (2) multiple_pdf2txt.sh
 ###################################################################################################
 
-#filearray=(/home/user/Desktop/BASH/pdfminer/pub-name2number/*.pdf)
+#filearray=(/home/user/Desktop/BASH/pdfminer/*.pdf)
 function elapsed_time {
   timeEND=$(date +%s)
   runtime=$((timeEND-timestart))
